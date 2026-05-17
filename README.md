@@ -7,8 +7,9 @@
 ## 개발환경
 - python : 3.10
 - anaconda : 3
-- fastapi : 
-- LLM : 
+- fastapi : 0.136.1
+- faiss-cpu : 1.13.2
+- Embedding Model : BAAI/bge-m3
 <br/><br/><br/>
 
 
