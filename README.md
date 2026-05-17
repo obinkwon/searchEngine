@@ -16,6 +16,7 @@
 ## 패키지 설치
 <blockquote data-ke-style="style2">
 <p data-ke-size="size16">pip install -r requirements.txt</p>
+<p data-ke-size="size16">conda env update -f environment.yml --prune</p>
 </blockquote>
 <br/><br/><br/>
 
