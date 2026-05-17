@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "product_name": "나이키 에어 줌 페가수스 40",
+    "shopping_mall": "Musinsa",
+    "category": "신발",
+    "description": "러닝과 조깅에 적합한 쿠셔닝 운동화",
+    "price": 129000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 2,
+    "product_name": "아디다스 울트라부스트",
+    "shopping_mall": "Coupang",
+    "category": "신발",
+    "description": "장시간 달리기에 좋은 편안한 러닝화",
+    "price": 159000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 3,
+    "product_name": "뉴발란스 530",
+    "shopping_mall": "29CM",
+    "category": "신발",
+    "description": "가벼운 워킹과 데일리 착용에 적합한 스니커즈",
+    "price": 99000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 4,
+    "product_name": "오버핏 린넨 셔츠",
+    "shopping_mall": "Musinsa",
+    "category": "의류",
+    "description": "여름에 시원하게 입기 좋은 남성 셔츠",
+    "price": 49000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 5,
+    "product_name": "쿨링 반팔 티셔츠",
+    "shopping_mall": "Coupang",
+    "category": "의류",
+    "description": "통기성이 뛰어난 여름용 기능성 반팔",
+    "price": 19900,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 6,
+    "product_name": "와이드 데님 팬츠",
+    "shopping_mall": "WConcept",
+    "category": "의류",
+    "description": "편안한 핏의 캐주얼 청바지",
+    "price": 59000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 7,
+    "product_name": "노트북 백팩",
+    "shopping_mall": "29CM",
+    "category": "가방",
+    "description": "대학생과 직장인을 위한 수납형 백팩",
+    "price": 79000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 8,
+    "product_name": "여행용 캐리어 24인치",
+    "shopping_mall": "Coupang",
+    "category": "가방",
+    "description": "해외 여행에 적합한 대형 캐리어",
+    "price": 119000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 9,
+    "product_name": "무선 블루투스 이어폰",
+    "shopping_mall": "Musinsa",
+    "category": "전자기기",
+    "description": "운동 중 사용하기 좋은 방수 이어폰",
+    "price": 89000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 10,
+    "product_name": "게이밍 기계식 키보드",
+    "shopping_mall": "11st",
+    "category": "전자기기",
+    "description": "RGB LED를 지원하는 청축 키보드",
+    "price": 129000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 11,
+    "product_name": "호카오네오네 러닝화",
+    "shopping_mall": "WConcept",
+    "category": "신발",
+    "description": "마라톤과 장거리 러닝에 적합한 운동화",
+    "price": 189000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 12,
+    "product_name": "요가 레깅스",
+    "shopping_mall": "Coupang",
+    "category": "의류",
+    "description": "스트레칭과 요가 운동용 여성 레깅스",
+    "price": 35000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 13,
+    "product_name": "후드 집업",
+    "shopping_mall": "Musinsa",
+    "category": "의류",
+    "description": "간절기에 입기 좋은 캐주얼 후드",
+    "price": 45000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 14,
+    "product_name": "폴딩 캠핑 의자",
+    "shopping_mall": "29CM",
+    "category": "캠핑",
+    "description": "야외 활동과 캠핑용 접이식 의자",
+    "price": 39000,
+    "source_file": "products.csv"
+  },
+  {
+    "id": 15,
+    "product_name": "스마트워치",
+    "shopping_mall": "11st",
+    "category": "전자기기",
+    "description": "심박수 측정과 운동 기록 기능 지원",
+    "price": 249000,
+    "source_file": "products.csv"
+  }
+]
