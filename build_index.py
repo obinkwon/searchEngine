@@ -52,6 +52,7 @@ for file in os.listdir(DATA_DIR):
             }
         )
 
+# FAISS가 사용할 수 있는 형태로 데이터를 변환
 # 임베딩 생성
 embeddings = create_embedding(documents)
 
